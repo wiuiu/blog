@@ -121,8 +121,6 @@ two的权重为 200 * 1 = 200。总权重为200+200=400</br>
 
 > 好像计算方式不正确，和浏览器实际显示的结果不一样。
 
-
-
 ## ref
 > - [面试官：说说flexbox（弹性盒布局模型）,以及适用场景？](https://vue3js.cn/interview/css/flexbox.html#%E4%BA%8C%E3%80%81%E5%B1%9E%E6%80%A7)
 > - [详解 flex-grow 与 flex-shrink](https://zhuanlan.zhihu.com/p/24372279)
