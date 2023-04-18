@@ -2,7 +2,7 @@
 category: 面试题
 tags:
   - css
-date: 2023/04/03 
+date: 2023-4-3 
 title: 垂直居中的方式
 vssue-title: Hello, world!
 ---

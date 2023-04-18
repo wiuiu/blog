@@ -2,7 +2,7 @@
 category: 面试题    
 tags:
   - js
-date: 2023-4-
+date: 2023-4-10
 title: js数组方法
 ---
 
@@ -29,7 +29,7 @@ splice(),比较特殊，该方法可以实现增、删、改三种操作。
 - 实现删 splice(startIndex, deleteCount)
 - 实现改 splice(startIndex, deleteCount, items...)
 
-startIndex: 如果startIndex超出数组长，则为数组末尾开始。如果为负值则倒着数。如果负值且超出数组长度，则表示为数组第0位
+startIndex: 如果startIndex超出数组长，则为数组末尾开始。如果为负值则倒着数。如果负值且超出数组长度，则表示在下标为0开始
 
 > [splice-MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
 

@@ -2,7 +2,7 @@
 category: 面试题    
 tags:
   - js
-date: 2023-4-
+date: 2023-4-10
 title: js数据类型
 ---
 
